@@ -10,3 +10,5 @@ Customer behavior insights: Exploring purchasing patterns and customer preferenc
 Factory performance: Evaluating production and supply chain efficiency to optimize output and reduce costs.
 Profitability analysis: Assessing gross margins and identifying areas for improving profitability through operational adjustments.
 This analysis is designed to empower stakeholders with the insights needed to optimize operations, drive revenue growth, and enhance customer satisfaction. By leveraging the visual storytelling capabilities of Power BI, the data is not only informative but also intuitive for stakeholders to explore and utilize in strategic decision-making processes.
+
+For a detailed walk-through of the project, including key findings and the methodologies used, you can read my Medium article: https://medium.com/@bala.mira297/us-candy-sales-analysis-using-power-bi-7847e6bd14ed
